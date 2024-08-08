@@ -1,4 +1,4 @@
-input the path to your .csv file with columns named symbol, time, and side (side indicates 'buy' or 'side')
+input the path to your .csv file for your trades (ex: "C:\Users\NAME\Desktop\PROJECT\logs\MLTrader_2024-07-13_00-29-55_trades.csv") with columns named symbol, time, and side (side indicates 'buy' or 'side')
 
 if there are no day trades you should get an output like:
 
