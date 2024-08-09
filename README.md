@@ -5,3 +5,7 @@ if there are no day trades you should get an output like:
 Empty DataFrame
 Columns: [symbol, date, day_trade]
 Index: []
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
